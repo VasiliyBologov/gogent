@@ -1,4 +1,4 @@
-module gogent
+module github.com/VasiliyBologov/gogent
 
 go 1.24.4
 
