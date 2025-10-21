@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+/.idea/.gitignore
+/.idea/gogent.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea
